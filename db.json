@@ -1,0 +1,50 @@
+{
+  "articles": [
+    {
+      "id": 1658060691044,
+      "title": "23123",
+      "shortText": "routerrouterqweqweqw",
+      "longText": "routerrouterrouterrouter123"
+    },
+    {
+      "id": 1658061591572,
+      "title": "computeqwe",
+      "shortText": "computed(() => qwe",
+      "longText": "computed(() => computed(() => EARTH"
+    },
+    {
+      "id": 1658123984235,
+      "title": "qwe1",
+      "shortText": "qweqweqweqwe",
+      "longText": "qweqweqweqweqweqweqweqweqweqweqweqweasd"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@admin.com",
+      "password": "adminQWE123",
+      "role": "admin"
+    },
+    {
+      "id": 1658126633068,
+      "email": "qwe@qwe.com",
+      "password": "qweQWe123"
+    },
+    {
+      "id": 1658127809275,
+      "email": "qwe1@qwe.com",
+      "password": "qweQWe123"
+    },
+    {
+      "id": 1658127889422,
+      "email": "qwe2@qwe.com",
+      "password": "qweQWe123"
+    },
+    {
+      "id": 1658127990890,
+      "email": "qwe3@qwe.com",
+      "password": "qweQWe123"
+    }
+  ]
+}
